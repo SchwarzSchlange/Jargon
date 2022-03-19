@@ -1,5 +1,9 @@
 # Jargon
 Google Password And History Stealer [Educational Purposes Only]
 
-
-## All history and password files saved in JarSaves
+### Features :
+``` ruby
+Chrome Password Stealer
+Chrome Histroy Stealer
+Saves into TXT File
+```
